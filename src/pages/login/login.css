@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+label {
+  display: block;
+}
+input {
+  display: block;
+}
+button {
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
+}
